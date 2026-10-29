@@ -1,4 +1,4 @@
-<img width="892" height="410" alt="image" src="https://github.com/user-attachments/assets/42cc4596-fe92-4f76-8b99-ae36de5a18bc" />![image](https://github.com/user-attachments/assets/21af1353-5293-42e2-800b-989fdccbd2a7)
+![image](https://github.com/user-attachments/assets/21af1353-5293-42e2-800b-989fdccbd2a7)
 
 
 ### 1. What server IP address did your variant's request use?
