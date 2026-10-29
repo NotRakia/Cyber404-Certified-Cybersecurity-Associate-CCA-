@@ -3,6 +3,7 @@
 
 ### 1. What server IP address did your variant's request use?
 Answer: 127.0.0.1
+
 Let's do `ls -la` to see all files
 ![image](https://github.com/user-attachments/assets/a24dda5f-17c0-4546-93fa-25666a5ea340)
 
