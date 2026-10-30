@@ -26,4 +26,4 @@ Real files written by the course's capture script. Digests are not shown: you co
 | :--- | :--- | :--- | :--- |
 | original-v4.txt | 48 | changed-v4.txt | 57 |
 
-Answer: 
+Answer: 4131ba8059c4d1f7f5e97759ff4b002d06102bf1a25c4821ea600be3ae109ae3
