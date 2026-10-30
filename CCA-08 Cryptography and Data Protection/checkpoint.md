@@ -16,14 +16,13 @@ c. Proof the visitor owns the server
 
 d. Binding the authenticated peer context to that hostname under the trust model (this)
 
-## 3. Use manifest variant v4 and its named original and changed files. Compute SHA-256 over the changed file bytes. Return lowercase hexadecimal.
+## 3. Use manifest variant v2 and its named original and changed files. Compute SHA-256 over the changed file bytes. Return lowercase hexadecimal.
 
-**The two supplied files, variant v4** `CAPTURED`
-
+**The two supplied files, variant v2 [CAPTURED]**
 Real files written by the course's capture script. Digests are not shown: you compute them over the files' exact bytes.
 
 | original_file | original_bytes | changed_file | changed_bytes |
 | :--- | :--- | :--- | :--- |
-| original-v4.txt | 48 | changed-v4.txt | 57 |
+| original-v2.txt | 48 | changed-v2.txt | 57 |
 
 Answer: 4131ba8059c4d1f7f5e97759ff4b002d06102bf1a25c4821ea600be3ae109ae3
