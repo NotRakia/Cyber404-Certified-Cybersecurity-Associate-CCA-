@@ -9,12 +9,10 @@
 
 ![image](https://github.com/user-attachments/assets/290563ac-37f1-4728-a196-383f525192d6)
 
-![image](
-
-Answer:
+Answer: 83.33
 
 ## 2. ﻿Calculate recall as a percentage, rounded to two decimal places. Give the number only.
-Answer:
+Answer: 71.43
 
 ## 3. ﻿Are these figures measured field performance of a deployed detection? Answer yes or no.
-Answer:
+Answer: no
